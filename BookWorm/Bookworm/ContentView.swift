@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  Bookworm
-//
-//  Created by Paul Hudson on 23/11/2021.
-//
+
 
 import SwiftUI
 
